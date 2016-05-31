@@ -1,0 +1,21 @@
+1.  How does your gem take advantage of Ruby's metaprogramming capabilities?
+
+    I dynamically created all the color methods using define_method
+
+2.  How long did you spend working on this project?
+
+    About a day
+
+3.  What was the most rewarding challenge you conquered?
+
+    When I first tried to code the sample_colors class method, I ran into some
+    trouble with my loop.  Specifically, I did not know how to deal with an array
+    populated with methods, and even after doing some research on the web, I could
+    not figure out where I was going wrong.  So I stepped away from the project and
+    later, when I was thinking about the lesson, I realized that the send method
+    might be the way to go, and it worked!  And then of course, everything started
+    to make perfect sense.
+
+4.  Where do you have room to grow?
+
+    I definitely need more practice writing documentation and README files.

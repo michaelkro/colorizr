@@ -1,4 +1,4 @@
-# colorizr
+# colorizr - Udacity Ruby Nano Degree
 
 colorizr allows you to quickly and easily colorize terminal output
 
